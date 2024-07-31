@@ -1,7 +1,7 @@
 # Toast Message Generator 
-A simple android app that lets you generate toast message.<br>
-The app uses Android Strudio Jetpack Conmpose in Kotlin.<br>
-The purpose of this app is to showcase how a simple android app work.
+* A simple android app that lets you generate toast message.<br>
+* The app uses Android Strudio Jetpack Conmpose in Kotlin.<br>
+* The purpose of this app is to showcase how a simple android app work.
 
 ## Prequisite
 - [Android Studio](https://developer.android.com/studio) version Giraffe or above
