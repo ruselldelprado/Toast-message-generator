@@ -5,9 +5,10 @@
 
 ## Prequisite
 - [Android Studio](https://developer.android.com/studio) version Giraffe or above
+- Android emulator in Android Studio
 ## Getting Started
-download file
+Download file
 ```
 git clone https://github.com/ruselldelprado/toast-message-generator.git
 ```
-then import to android studio
+Then import to android studio and run the program
